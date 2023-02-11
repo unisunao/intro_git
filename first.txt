@@ -3,3 +3,4 @@ Git‚Ì—ûK‚ğ‚µ‚Ä‚¢‚«‚Ü‚·
 .git add
 .git commit
 .git remove
+.git status
